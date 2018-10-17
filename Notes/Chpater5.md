@@ -21,4 +21,11 @@
     for item in list:
       # Do a thing
 
-*
+## Glossary
+* Accomulater: A variable used in a loop to add up or accumulate a result
+* Counter: A variable used in a loop to count the number of times something happened.
+* Decrement: An update to a variable that decreases it's value
+* Initialize: An assigment that gives an initial value to a variable
+* Increment: An update that increases the value of a variable
+* Infinite Loop: A loop which will either never meet it's terminating condition or never had one
+* Iteration: Repeated execution of a set of statements using either a fnction that calls itself or a loop
